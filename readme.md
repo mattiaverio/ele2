@@ -7,3 +7,5 @@
 [Exercise 4](./src/e4/exercise4.md)
 
 [Exercise 5](./src/e5/exercise5.md)
+
+[Exercise 6](./src/e5/exercise6.md)
